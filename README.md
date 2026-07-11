@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
