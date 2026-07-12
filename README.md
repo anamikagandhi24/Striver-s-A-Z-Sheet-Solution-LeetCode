@@ -38,6 +38,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1903-largest-odd-number-in-string) |
