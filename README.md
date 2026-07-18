@@ -34,6 +34,7 @@
 | [0045-jump-game-ii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
@@ -168,6 +169,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -207,6 +209,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
