@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -169,6 +170,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
