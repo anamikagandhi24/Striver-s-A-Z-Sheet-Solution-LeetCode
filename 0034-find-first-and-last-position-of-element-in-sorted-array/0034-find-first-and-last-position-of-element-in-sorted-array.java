@@ -2,17 +2,30 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int []range=new int[]{-1,-1};
         int n=nums.length;
-        
-        for(int left=0;left<n;left++){
-            if(nums[left]==target){
-                range[0]=left;
-                break;
+        int left=0;
+        int right=n-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]==target){
+                range[0]=mid;
+                right=mid-1;
+            }else if(nums[mid]<target){
+                left=mid+1;
+            }else {
+                right=mid-1;
             }
         }
-        for(int right=n-1;right>=0;right--){
-            if(nums[right]==target){
-                range[1]=right;
-                break;
+        left=0;
+        right=n-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]==target){
+                range[1]=mid;
+                left=mid+1;
+            }else if(nums[mid]<target){
+                left=mid+1;
+            }else {
+                right=mid-1;
             }
         }
         return range;
