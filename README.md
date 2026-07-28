@@ -215,6 +215,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0204-count-primes) |
@@ -252,6 +253,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
