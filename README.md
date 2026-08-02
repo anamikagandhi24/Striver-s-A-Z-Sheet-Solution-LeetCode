@@ -49,6 +49,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0980-unique-paths-iii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -221,6 +222,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0980-unique-paths-iii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0980-unique-paths-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -330,6 +332,7 @@
 | [0131-palindrome-partitioning](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0282-expression-add-operators) |
+| [0980-unique-paths-iii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,4 +345,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
