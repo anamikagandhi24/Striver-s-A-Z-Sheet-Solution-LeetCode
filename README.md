@@ -254,6 +254,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0066-plus-one) |
@@ -295,6 +296,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0206-reverse-linked-list) |
@@ -360,6 +362,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0141-linked-list-cycle) |
