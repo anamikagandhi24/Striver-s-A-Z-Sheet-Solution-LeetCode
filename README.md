@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0707-design-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0707-design-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -359,5 +360,6 @@
 | [0206-reverse-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
