@@ -429,6 +429,7 @@
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
