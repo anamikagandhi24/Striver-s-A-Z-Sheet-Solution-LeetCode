@@ -426,4 +426,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
