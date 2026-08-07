@@ -65,6 +65,7 @@
 | [0062-unique-paths](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -366,6 +367,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Combinatorics
@@ -417,6 +419,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -425,6 +428,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -438,4 +442,8 @@
 | [1148-article-views-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1683-invalid-tweets) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
