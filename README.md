@@ -51,6 +51,7 @@
 | [0622-design-circular-queue](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0705-design-hashset](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0980-unique-paths-iii) |
@@ -108,6 +109,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0705-design-hashset](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0705-design-hashset) |
 ## Union-Find
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0155-min-stack](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0707-design-linked-list) |
 ## Data Stream
 |  |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0705-design-hashset) |
 | [1392-longest-happy-prefix](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Enumeration
 |  |
@@ -419,6 +423,7 @@
 | [0328-odd-even-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0876-middle-of-the-linked-list) |
