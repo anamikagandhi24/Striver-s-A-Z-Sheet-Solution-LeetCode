@@ -60,6 +60,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3842-toggle-light-bulbs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0705-design-hashset](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0705-design-hashset) |
+| [3842-toggle-light-bulbs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Union-Find
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0414-third-maximum-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3842-toggle-light-bulbs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0054-spiral-matrix) |
+| [3842-toggle-light-bulbs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Monotonic Stack
 |  |
 | ------- |
