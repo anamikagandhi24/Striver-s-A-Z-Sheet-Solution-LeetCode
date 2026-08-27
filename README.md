@@ -64,6 +64,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-string-matching-in-an-array](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3842-toggle-light-bulbs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3842-toggle-light-bulbs) |
@@ -204,6 +205,7 @@
 | [0239-sliding-window-maximum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0622-design-circular-queue) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1025-divisor-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -368,6 +371,7 @@
 | [0234-palindrome-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -387,6 +391,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3842-toggle-light-bulbs](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Monotonic Stack
 |  |
