@@ -12,7 +12,6 @@ class Solution {
                 if(hm.get(sChar)!=tChar)return false;
             }else{
                 if(mh.containsKey(tChar))return false;
-
                 hm.put(sChar,tChar);
                 mh.put(tChar,sChar);
             }
