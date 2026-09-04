@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
 | ------- |
@@ -452,6 +453,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0547-number-of-provinces](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Combinatorics
@@ -559,6 +561,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
@@ -602,4 +605,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anamikagandhi24/Striver-s-A-Z-Sheet-Solution-LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
